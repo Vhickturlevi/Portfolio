@@ -1,0 +1,120 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    background: transparent;
+    font-weight: bolder;
+    color: white;
+    padding: 20px;
+}
+
+#hsac a{
+    margin-inline: 30px;
+    text-decoration: none;
+    color: white;
+
+}
+
+header{
+    height: 100vh;
+    background: url("pexels-ann-h-1762851.jpg");
+    background-size: cover;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main div{
+    flex-basis: 50%;
+}
+
+.left{
+    padding: 110px;
+    margin: 50px;
+    color: black;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.welcome{
+    color: crimson;
+}
+
+.right{
+    background-image: url("IMG_20220831_122453_634.png");
+    background-size: cover;
+}
+
+.services{
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: transparent;
+    color: white;
+    border-radius: 5px;
+    
+}
+
+.contact{
+    padding: 5px;
+    background: transparent;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: white;
+    border-radius: 5px;
+
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    background: transparent;
+    font-weight: bolder;
+    color: white;
+    padding: 20px;
+}
+
+#rightnav a{
+    margin-inline: 30px;
+    text-decoration: none;
+    color: whi te;
+}
+
+section{
+    height: 100vh;
+    background-color: white;
+    background-size: cover;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.content div{
+    flex-basis: 50%;
+}
+
+.lefthand{
+    padding: 150px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+
+.righthand{
+    background-image: url("IMG_20220902_093852_407.png");
+    background-size: cover;
+}
+

@@ -1,0 +1,49 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    background: transparent;
+    font-weight: bolder;
+    color: white;
+    padding: 20px;
+}
+
+#rightnav a{
+    margin-inline: 30px;
+    text-decoration: none;
+    color: whi te;
+}
+
+header{
+    height: 100vh;
+    background-color: darkgrey;
+    background-size: cover;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.content div{
+    flex-basis: 50%;
+}
+
+.lefthand{
+    padding: 150px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+
+.righthand{
+    background-image: url("IMG_20220902_093852_407.png");
+    background-size: cover;
+}
+
